@@ -8,6 +8,6 @@ public class HelloController {
 
     @RequestMapping("/hello")
     public String hello() {
-        return "Hello Git!Use SSH,Version 1.0.0.";
+        return "Hello Git!Use SSH,Github Version 1.0.0.";
     }
 }
