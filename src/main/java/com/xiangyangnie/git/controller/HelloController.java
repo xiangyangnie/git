@@ -8,6 +8,6 @@ public class HelloController {
 
     @RequestMapping("/hello")
     public String hello() {
-        return "Hello Git! -V1.0.0";
+        return "Hello Git! master -V0.5";
     }
 }
